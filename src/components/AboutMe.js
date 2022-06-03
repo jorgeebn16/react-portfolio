@@ -13,11 +13,11 @@ const AboutMe = () => {
                 <div className="col-lg-6 col-xm-12">
                     <h1 className="about-heading">about me</h1>
                     <p>
-                    Results-oriented professional with extensive experience in data analysis and web development. 
-                    Proficient in interpreting data, analyzing results using statistical techniques, and providing ongoing reports. 
-                    Adept at developing and implementing strategies to optimize statistical efficiency and quality. 
-                    Excel at prioritizing business requirements and identifying process improvement opportunities. 
-                    Possess diverse knowledge of HTML, CSS, JavaScript, Jquery, Mongo DB, SQL, full-stack development, Python applications, and data visualization development.
+                    Results-oriented professional with extensive experience in data analysis, web development, and quality control. Competent in interpreting data 
+                    and developing Information System Development through the different development stages. Experienced in software testing, implementation, and 
+                    documentation of changes. Excel at prioritizing business requirements and identifying process improvement opportunities. 
+                    Possess diverse knowledge of software and processes Quality Assurance, HTML, CSS, JavaScript, Jquery, Mongo DB, SQL, 
+                    Python applications, and data visualization development.
                     </p>
                 </div>
             </div>
